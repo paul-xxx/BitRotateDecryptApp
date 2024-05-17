@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.33829.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitRotateDecryptApp", "BitRotateDecryptApp.csproj", "{DD755672-CD23-4099-BA6B-D6A33403204D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD755672-CD23-4099-BA6B-D6A33403204D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD755672-CD23-4099-BA6B-D6A33403204D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD755672-CD23-4099-BA6B-D6A33403204D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD755672-CD23-4099-BA6B-D6A33403204D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D13DDA3-B368-4020-9592-023630A25D10}
+	EndGlobalSection
+EndGlobal
